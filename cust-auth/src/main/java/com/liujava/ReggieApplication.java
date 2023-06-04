@@ -19,5 +19,4 @@ public class ReggieApplication {
         SpringApplication.run(ReggieApplication.class, args);
         log.info("项目启动成功。。。。。");
     }
-
 }
